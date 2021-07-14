@@ -1,1 +1,1 @@
-# ios-6-diplom
+# ios-diplom
